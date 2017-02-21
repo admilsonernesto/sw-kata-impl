@@ -12,11 +12,27 @@ Projeto template para resolver os exercícios (code katas) do ws-kata (https://g
 
 #### Abrindo no IntelliJ
 1. Abra o projeto com o IntelliJ selecionando o arquivo **build.gradle**.
-1. Ao perguntar '*Would you like to open this project?*', escolha '**Open as Project**'.
-1. Na caixa de diálogo '*Import Project from Gradle*', deixe marcado a opção '**User default gradle wrapper (recommended)**' e clique em '**OK**'.
-1. Na caixa de diálogo '*File Already Exists*', escolha '**Yes**' para confirmar a sobreescrita do arquivo.
-1. Na caixa de diálogo '*Open Project*', escolha '**Delete Existing Project and Import**'.
+
+![](docs/open_file_or_project.png)
+
+2. Ao perguntar '*Would you like to open this project?*', escolha '**Open as Project**'.
+
+![](docs/open_project.png)
+
+3. Na caixa de diálogo '*Import Project from Gradle*', deixe marcado a opção '**User default gradle wrapper (recommended)**' e clique em '**OK**'.
+
+![](docs/import_project_from_gradle.png)
+
+4. Caso apareça a caixa de diálogo '*File Already Exists*', escolha '**Yes**' para confirmar a sobreescrita do arquivo.
+
+5. Caso apareça a caixa de diálogo '*Open Project*', escolha '**Delete Existing Project and Import**'.
+
+6. Em 'Gradle Project Data to Import', selecione todos os módulos.
+ 
+ ![](docs/gradle_project_data_to_import.png)
 
 #### Atualizando as dependências
 Com o projeto, clique em '**Refresh all Gradle projects**' para certificar que todas dependências foram baixadas e estão atualizadas (*com.github.gersonkm.sw-kata*).
+
+![](docs/execute_gradle_task.png)
 
