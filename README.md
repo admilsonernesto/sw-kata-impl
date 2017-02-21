@@ -32,9 +32,7 @@ Projeto template para resolver os exercícios (code katas) do ws-kata (https://g
     ![](docs/gradle_project_data_to_import.png)
 
 #### Atualizando as dependências
-Com o projeto, clique em '**Refresh all Gradle projects**' para certificar que todas dependências foram baixadas e estão atualizadas (*com.github.gersonkm.sw-kata*).
+Com o projeto carregado, clique em '**Refresh all Gradle projects**' para certificar que todas dependências foram baixadas e estão atualizadas (*com.github.gersonkm.sw-kata*).
 
-    ![](docs/execute_gradle_task.png)
-    
-
+![](docs/execute_gradle_task.png)
 
