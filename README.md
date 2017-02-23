@@ -36,3 +36,12 @@ Com o projeto carregado, clique em '**Refresh all Gradle projects**' para certif
 
 ![](docs/execute_gradle_task.png)
 
+## Links/Livros úteis
+Links úteis:
+
+  - https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/index.html
+  - http://stackoverflow.com/documentation/kotlin/707/java-8-stream-equivalents
+
+Livros:
+  - https://www.manning.com/books/kotlin-in-action
+  - https://antonioleiva.com/kotlin-android-developers-book/

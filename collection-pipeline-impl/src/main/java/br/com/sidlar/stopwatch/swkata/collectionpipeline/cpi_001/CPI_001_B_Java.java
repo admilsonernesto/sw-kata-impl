@@ -9,7 +9,7 @@ import java.util.Map;
 public class CPI_001_B_Java implements CPI_001_B {
 
     @NotNull @Override
-    public Map<String, Livro> solve(@NotNull List<Livro> pedidos) {
+    public Map<String, Livro> solve(@NotNull List<Livro> livros) {
         throw new NotImplementedException("TODO");
     }
 

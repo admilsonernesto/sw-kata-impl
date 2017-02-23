@@ -9,7 +9,7 @@ import java.util.SortedMap;
 public class CPI_001_C_Java implements CPI_001_C {
 
     @NotNull @Override
-    public SortedMap<Integer, Livro> solve(@NotNull List<Livro> pedidos) {
+    public SortedMap<Integer, Livro> solve(@NotNull List<Livro> livros) {
         throw new NotImplementedException("TODO");
     }
 
