@@ -36,7 +36,7 @@ Com o projeto carregado, clique em '**Refresh all Gradle projects**' para certif
 
 ![](docs/execute_gradle_task.png)
 
-## Links/Livros úteis
+## Links úteis
 Links úteis:
 
   - https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/index.html
